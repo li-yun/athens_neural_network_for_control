@@ -1,0 +1,8 @@
+# Packages for the ATHENS course exercises (ex1 - ex4)
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+matplotlib>=3.7
+cvxpy>=1.5          # MPC (ex2, ex4); includes the CLARABEL solver
+scikit-learn>=1.3   # neural networks (ex3, ex4)
+ipykernel           # run the notebooks in Jupyter / VS Code
